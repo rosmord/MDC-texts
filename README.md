@@ -30,4 +30,6 @@ The following licenses are suggested (with a preference for **CC BY**)
 - [CC BY](https://creativecommons.org/licenses/by/2.0) : most versatile, anything can be done with your text, but authorship should be kept (and possible modifications should be recorded) ;
 - [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0) : as for the previous, original authorship should be acknowledged, but the document **must** be shared under the same rules, which means for instance that derivative works must also be opened ;
 
+#### Postface
 
+I'd like to thank, in particular, Patricia Cassonnet for all the Late Egyptian Texts. 
