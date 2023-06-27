@@ -1,16 +1,19 @@
 ++JSesh_Info 1.0 +s
-++JSesh_max_quadrantHeight 18.0 +s
-++JSesh_page_direction RIGHT_TO_LEFT +s
-++JSesh_page_orientation HORIZONTAL +s
-++JSesh_standard_sign_height 18.0 +s
-++JSesh_line_skip 6.0 +s
-++JSesh_max_quadrant_width 22.0 +s
-++JSesh_small_skip 2.0 +s
 ++JSesh_use_lines_for_shading true +s
+++JSesh_max_quadrant_width 22.0 +s
+++JSesh_line_skip 6.0 +s
+++JSesh_small_skip 2.0 +s
 ++JSesh_column_skip 10.0 +s
+++JSesh_standard_sign_height 18.0 +s
 ++JSesh_small_body_scale_limit 12.0 +s
 ++JSesh_cartouche_line_width 1.0 +s
 ++JSesh_small_sign_centered false +s
+++JSesh_page_direction RIGHT_TO_LEFT +s
+++JSesh_max_quadrantHeight 18.0 +s
+++JSesh_page_orientation HORIZONTAL +s
++bP. Harris I+s-!
++iTyped by Raymond Monfort+s-!
++bLicence : Creative commons CC-BY+s-!
 $r-|3;1-s-Ax-x-W-A2-Z3-$b-z:n-s-A30-A2-Z3A-ti-n:Z2-r-Z1-A24-Ax-x-W-Y1:Z2-i-A2-ir:r-f-r-pr-Z1-i-t:f-G7-f-!
 A51-s-y:Y1-G7-i-mn:n-G7-ra-G7-sw-G7-nTrw-G7-Z3-mwt:t-t:H8-I80-x:n-sw-W-G7-nTrw-G7-Z3-nb:W*3-R19-t:O49-G7-!
 $r-|3;2-D&d-i-n-$b-sw-t:n-G7-<-ra-wsr-U5:a_-.:t-Sw-mr-i-mn:n-G7->-G7-anx-DA-s-zA&ra-Z1-G7-<-ra{{0,250,100}}**ms{{514,0,99}}-s-s-HqA-iwn->-G7-anx-DA-s-G41-A-nTr-G7-aA:Y1-m-!

@@ -1,20 +1,21 @@
 ++JSesh_Info 1.0 +s
-++JSesh_max_quadrantHeight 18.0 +s
-++JSesh_page_direction LEFT_TO_RIGHT +s
-++JSesh_page_orientation HORIZONTAL +s
-++JSesh_standard_sign_height 18.0 +s
-++JSesh_line_skip 6.0 +s
-++JSesh_max_quadrant_width 22.0 +s
-++JSesh_small_skip 2.0 +s
 ++JSesh_use_lines_for_shading false +s
+++JSesh_max_quadrant_width 22.0 +s
+++JSesh_line_skip 6.0 +s
+++JSesh_small_skip 2.0 +s
 ++JSesh_column_skip 8.0 +s
+++JSesh_standard_sign_height 18.0 +s
 ++JSesh_small_body_scale_limit 12.0 +s
 ++JSesh_cartouche_line_width 1.0 +s
 ++JSesh_small_sign_centered false +s
+++JSesh_page_direction LEFT_TO_RIGHT +s
+++JSesh_max_quadrantHeight 18.0 +s
+++JSesh_page_orientation HORIZONTAL +s
 +bStela Cairo CGC 34025+s-!
 +lfrom W. F. Petrie, +s-+iSix Temples at Thebes, +s-+l1896, 1897, pl. 13-14+s-!
 +lIncludes corrections proposed in KRI p. 41, l. 6-7.+s-!
 +lCurrent version: S. Rosmorduc, from a base typed by R. Monfort.+s-!
++bLicence : Creative commons CC-BY+s-!
 +lScene:+s-!
 +lRoi : +s-nb:N17:N17-<-C2\-C12-N36:n:E10->-nb:xa*1*1*1-<-C102\-C10A-N36:n:Htp:Hr*1->-!
 +lDisque solaire+s-bH:d:t*niwt-!
