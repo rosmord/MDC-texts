@@ -1,0 +1,78 @@
+++JSesh_Info 1.0 +s
+++JSesh_use_lines_for_shading false +s
+++JSesh_max_quadrant_width 22.0 +s
+++JSesh_line_skip 6.0 +s
+++JSesh_small_skip 2.0 +s
+++JSesh_column_skip 8.0 +s
+++JSesh_standard_sign_height 18.0 +s
+++JSesh_small_body_scale_limit 12.0 +s
+++JSesh_cartouche_line_width 1.0 +s
+++JSesh_small_sign_centered false +s
+++JSesh_page_direction LEFT_TO_RIGHT +s
+++JSesh_max_quadrantHeight 18.0 +s
+++JSesh_page_orientation HORIZONTAL +s
+.-+b            Falsaporta di Mehu    +s-!
++l     Trascrizione geroglifica by Nico Pollone.   +s-!
++l    https://en.wikipedia.org/wiki/Mehu+s-!
+.-+i La Falsa porta è un elemento architettonico in pietra o legno, raffigurante   +s-!
+.-+i una simbolica porta, che con la sua magica funzione consentiva al Ka del   +s-!
+.-+i defunto di transitare, attraverso la via dell'Aldilà, dal regno dei morti   +s-!
+.-+i a quello dei vivi e viceversa.  +s-!
+.-+i Mehu è stato uno dei visir del faraone Pepi I della VI Dinastia. Ha iniziato   +s-!
+.-+i la sua carriera sotto regno di Unas e attraverso i passaggi dell'amministrazione +s-!
+.-+i reale riceve i più prestigiosi titoli,  e le più importanti   +s-!
+.-+i funzioni di governo durante il regno di Teti, per concludere quindi la salita   +s-!
+.-+i "reale" all'elevato incarico di Visir. Oltre alle qualifiche e le funzioni relative  +s-!
+.-+i all' alto stato sociale, svolge anche la mansione di Cancelliere del    +s-!
+.-+i Basso Egitto, e governatore dell'Alto Egitto. +s-!
+.-!
++b              Prime tre linee orizzontali in alto +s-!
+|1-.-M23_-X1:R4_-X8_-E15:R4_-W18:X1_-R8_-O21_-Z11_-G43_-X1:O49_-D1*N26:I9-V30:N16_-D45-N29:D21-T20-S29-Q6:X1:I9_-G17_-R10_-R13__-!
+|2-.-M23_-X1:R4_-X8_-D4:Q1*A40_-X8_-W18:X1_-R11_-D46_-G43_-O49_-Aa1:Q3*D54:I9_-D2:D21_-V4:X1_-N31:N31:N31_-F35_-D21:X1_-N35:X1_-R13_-X1_-A20_-F35-!
+|3-.-M23-X1:R4-X8-O70-X2*X6*W22:N35:I9_-G17_-O22:W3A_-V30:N5:V30_-G17_-F40:X1_-Y2:Y2:Y2-D:t:tA-G17_-D21:Aa14:O1*Z1_-M23_-X1:D1_-T28_-$r-G17_-V22_-G43-$b-| Nome di Mehu  -!
+!
+.-+b 2 colonne verticali centrali immediatamente sotto alle tre orizz. a destra   +s-!
+|1-.-M23_-X1:N35_-R4_-X1:Q3_-X8_-E15:R4_-X1:Q3_-X8_-W18:X1_-R8_-O21_-D1*N26:I9_-Z11_-G43_-X1*O49_-V30:N16_-D45_-N29:D21_-T20_-S29_-Q6:X1:I9_-G17_-G131B__-!
+|2-.-M23_-X1:N35_-R4_-X1:Q3_-X8_-D4:Q1*A40_-R4_-X1:Q3_-X8_-Aa1*Q3:D54:I9_-D2:D21_-V4:X1_-N31:N31:N31_-F35_-D21:X1_-F36*U1:I9_-N16:D21_-R13:X1_-F35_-D21:X1_-M17_-D36:N31:I9_-N35:R8*A40:O29__-!
+.-.-+b Al termine delle due righe verticali, è inserito, in orizzontale  +s-!
+.-+b Il nome +s-+l Mehu  +s-$r-G17_-V22_-G43-$b-!
+!
++b    2 colonne verticali laterali immediatamente sotto alle tre orizz. a destra   +s-!
+|3-.-D21:Q3:D36_-F4:D36_-S29*U23:T21_-X1:Z1-V28{{0,1,100}}_**T28{{395,169,100}}_**D58{{794,0,98}}_-D2:D21_-S29_-S:X1*U30-G1:N35-O1*Z1:D46-V4-N14-pr:X1-G17-D21:Aa14-O1:Z1-M22:X1-D1:T28-G17:D21-O255-Z2:Z2-pr:X1-!
+|4-.-O17_-E17_-G47_-G17:D21_-M23_-X1:Y3_-D36:Y2-G17:D21-O51*O51-G17:D21-O2-O2-M17-U1-F39:Aa1-G43-Aa1:D21-R8-A40:O29-!
+.-+b    Al termine delle due righe verticali, è inserito, in orizzontale  +s-!
+.-+b Il nome +s-+l Mehu  +s-$r-G17_-V22_-G43-$b-!
+!
+!
+.-+b Le colonne verticali immediatamente sotto alle tre orizz. a sinistra   +s-!
+.-+b hanno lo stesso testo delle colonne precedenti di destra.  +s-!
+|1-.-M23_-X1:N35_-R4_-X1:Q3_-X8_-E15:R4_-X1:Q3_-X8_-W18:X1_-R8_-O21_-D1*N26:I9_-Z11_-G43_-X1*O49_-V30:N16_-D45_-N29:D21_-T20_-S29_-Q6:X1:I9_-G17_-G131B_-!
+|2-.-M23_-X1:N35_-R4_-X1:Q3_-X8_-D4:Q1*A40_-R4_-X1:Q3_-X8_-Aa1*Q3:D54:I9_-D2:D21_-V4:X1_-N31:N31:N31_-F35_-D21:X1_-F36*U1:I9_-N16:D21_-R13:X1_-F35_-D21:X1_-M17_-D36:O41:I9_-N35:R8*A40:O29_-!
+.-.-$r-G17_-V22_-G43__-$b-!
+|3-.-D21:Q3:D36_-F4:D36_-S29*U23:T21_-X1:Z1-V28{{0,1,100}}_**T28{{395,169,100}}_**D58{{794,0,98}}_-D2:D21_-S29_-Aa12:X1*U30_-G1:N35_-O1*Z1:D46_-V4-N14-pr:X1-G17_-D21:Aa14-O1:Z1-M22:X1-D1:T28-G17:D21-O255-Z2:Z2-pr:X1-!
+|4-.-O17_-E17_-G47_-G17:D21_-M23_-X1:Y3_-D36:Y2_-G17:D21_-O51*O51_-G17:D21-O2-O2-M17-U1-F39:Aa1-G43-Aa1:D21-R8-A40:O29-!
+.-.-$r-G17_-V22_-G43__-$b-!
+!
+.-+b Riquadratura centrale con il personaggio seduto davanti a una tavola d0offerta  +s-!
+.-O17_-E17_-G47_-G17:D21_-M23_-X1:Y3_-D36:Y2_-G17:D21_-O255\142**X1{{135,1526,84}}**O1{{44,1886,61}}**Z2{{862,1565,55}}**Z2{{850,1920,54}}-M17_-U1_-F39:Aa1__-!
+.-H1_-H1_-F1_-X2_-X6_-W22_-V6_-S27_-M23_-X1:D1_-T28-.-G17_-V22_-G43__-!
+.-M12_-M12_-M12_-M12_-M12_-M12_-M12_-M12__-!
+.-!
+.-+b Due linee orizzontale sotto al riquadro centrale  +s-!
+.-V28{{0,1,100}}_**T28{{395,227,100}}_**D58{{794,0,98}}_-D2:D1_-M1:D36_-S29_-U23_-T21:X1*Z1__-!
+.-S29_-G17_-S42_-Aa25:X1_-V30:X1_-S42_-G17_-R8_-R8_-R8__-!
+.-!
+.-+b 4 linee verticali sotto il riquadro +s-!
++b                +s-+l a destra  +s-!
+.-L2:X1_-S19_-S29*U23:T21-X1:Z1-G17:D21_-M26_-G17:D21_-S29*I10:F21_-X1:V30:X1__-!
+.-S29*U23:T21_-X1*Z1:D21_-F35_-F4:X1_-G17:D21_-M17*M40_-O34:O1:O1-M23_-X1:Aa30__-!
+.-$r-G17_-V22_-G43__-$b-!
+.-+b  A sinistra, identiche alle precedenti  +s-!
+!
+.-L2:X1_-S19_-S29*U23:T21-X1:Z1-G17:D21_-M26_-G17:D21_-S29*I10:F21_-X1:V30:X1__-!
+.-S29*U23:T21_-X1*Z1:D21_-F35_-F4:X1_-G17:D21_-M17*M40_-O34:O1:O1-M23_-X1:Aa30__-!
+.-$r-G17_-V22_-G43__-$b-!
+!
++l Sul pilone centrale il nome di Mehu   +s-!
+$r-.-G17_-V22_-G43__-$b-!
+!
