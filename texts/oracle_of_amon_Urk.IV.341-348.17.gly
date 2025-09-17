@@ -1,5 +1,5 @@
-++JSeshInfo 1.0 +s
-++JSesh_use_lines_for_shading true +s
+++JSesh_Info 1.0 +s
+++JSesh_use_lines_for_shading false +s
 ++JSesh_max_quadrant_width 22.0 +s
 ++JSesh_line_skip 6.0 +s
 ++JSesh_small_skip 2.0 +s
@@ -11,8 +11,7 @@
 ++JSesh_page_direction LEFT_TO_RIGHT +s
 ++JSesh_max_quadrantHeight 18.0 +s
 ++JSesh_page_orientation VERTICAL +s
-+bOracle of Amon+s-+bUrk. IV, 341-348.17,+s-+b Naville,  Deir el Bahari III, PL. LXXXIV+s-+iTyped by M. Bilgin+s-!
-!
++bOracle of Amon+s-+bUrk. IV, 341-348.17,+s-+b Naville,  Deir el Bahari III, PL. LXXXIV+s-+iTyped by M. Bilgin+s-+bLicence : Creative commons CC-BY+s-!
 |1-G106&N6-<S-wsr*s:kA*t_-kA*kA->-nbty-(wAD:t)*(M4*M4*M4)-t{{0,326,98}}**G8{{238,0,98}}-R8*(t:xa:Z2D)-(sw:t)*(bit:t)-<-ra-mAat-kA->-(T:t)*i-#b-[[*D17-(t:Dsr)*]]-#e-n:t-i*(mn:n)-A40-U7:r:t-n:f-wn:n-z:Hr*Z1-n:ns&&&(t*g)-f-s*M14-Y1:n:f-n:z-E9:a-t*iwa-N17:N17-sw*t*i*i-Y1-(Sma:niwt)*(HA:niwt)-di-n:f:n:z-!
 |2-V7-n:n:(t*Z7)-i*(T:n:ra)-a:r:f:(t*V33)-gb-b*A40-nw*t:pt-D35:n-r:q*w-D41-A13-Z2:z-m-m-M24*w-N21*Z2D-D35:n-i*(T:n)-nw*w-D40-A13:Z2-mH&&&tyw-N21*Z2D-p*t:pt-N25:t*Z2D-nb:t-q&mA-T14*t*Y1v-n-R8*A40-bA&k-z:n:n:z-!
 |3-mi*qd-(d:nw):Y1-D54*w:z:n:Z2-n:z-m-ib*Z1-s*(n:D&&&snD)-(Hr:r)-w-tp*tp:tp-z:n:Z2-wAH*H-tp*Z1-(U4:a)-w-Y1:Z2-z:n:Z2-Hr*Z1-p:z:d-Szp:Z2-z:n-H*(n:k)-D39:z:n:Z2-n:z-m-ms*s-w-Xrd*Z2B-z:n:zb-t&w*Y1v-!
