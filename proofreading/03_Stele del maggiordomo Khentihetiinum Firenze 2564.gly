@@ -1,0 +1,69 @@
+++JSesh_Info 1.0 +s
+++JSesh_use_lines_for_shading false +s
+++JSesh_max_quadrant_width 22.0 +s
+++JSesh_line_skip 6.0 +s
+++JSesh_small_skip 2.0 +s
+++JSesh_column_skip 8.0 +s
+++JSesh_standard_sign_height 18.0 +s
+++JSesh_small_body_scale_limit 12.0 +s
+++JSesh_cartouche_line_width 1.0 +s
+++JSesh_small_sign_centered false +s
+++JSesh_page_direction LEFT_TO_RIGHT +s
+++JSesh_max_quadrantHeight 18.0 +s
+++JSesh_page_orientation HORIZONTAL +s
++b Stele del maggiordomo Khentihetiiun  Firenze N° 2564  +s-!
++lS. Bosticco, Le stele egiziane dall'Antico al Nuovo Regno, Roma, 1959, pgg. 41-42, n. 37+s-!
++b  Riga superiore inizio stele.   +s-!
+sw-t:Htp-X8-st-ir:nb-R11-R11-w-W17-n:t:G4-G4:R14-nb-U23-b-N26-D37:f-O3-F1-H1-V6-S27-n:kA:n-!
+!
++b   Parte testuale di destra   +s-!
+F20:pr*Z1-xnt-t:F32-M17-D3:N33*N33*N33:ir-n:mn:n-t_-wr_-A50-!
+N41*t:f-N36:t-f-nb:t*pr-s-n:b:t-s-y-ir:t:n-ti-i-ti-i-B1-!
+G38*t:f-N36:t:f-mn:n:t-wr-ir:t:n-s-n:b:t-s-y-B1-D10\-D10-!
+G38:f-N36:f-x:xa-kA*kA:kA-x:D43-w-Y1:O49*t:f-ir:n-s-n:b:t-s-y-A50-!
+G38&t:f-N36:t:f-mn:n:t-G37-A17-ir:t:n-s-n:b:t-s-y-B1-!
+G38-t:f-N36:t:f-i-A2-k-i-ir:t:n-s-n:b:t-s-y-B1-!
+G38:f-N36:f-H-HA-A-anx-n:x:f-ir:n-s-n:b:t-s-y-A50-!
+G38:f-N36:f-x:xa-kA*kA:kA-s-nfr-w-ir:n-s-n:b:t-s-y-A50-!
+i-t:f-N36:f-F20:pr*Z1-H-HA-A-anx-n:x:f-ir:n-i-A2:nb-A50-!
+G14-t:f-N36:t:f-nb:t*pr-mn:n:t-G4-ir:t:n-G38-t-i-p-$r-E134-$b-B1-!
+sn-n:t:f-N36:t:f-nb:t*pr-i-A2-k-i-ir:n-mn:n:t-G4-B1-!
+i-t:f-i-t:f-pr:r-D54-Hr-r:n:f-i-A2-ti-ir:n-N5-.-G38-t-A50-!
+N41*t:f-N36:t:f-i-A2-k:i-ir:t:n-m-V16-s-B1-!
+G38:f-N36:f-pr:r:D54-Hr-r:n:f-T13-w-D5-ir:n-i-A2-k:i-A50-!
+G38:f-N36:f-s-n:b-f:ir:n-i-A2-k:i-A50-T19-t:y-s-nfr-r-w-A50-!
+sn-n:f-Aa5:p-w-A22-ir:n-N5-G38-t-A50-ir:n-t:t-i-m-V16-s-B1-!
+sn-n:f-W17-n:t:X-t-m-F4:Z1*t-ir:n-N5-G38-t-A50-!
+i-t:f-G14-t:f-W17-n:t:X-ti-Htp:ir-n:S10-H-w-N33-N33-N33-B1-!
+N41:t-f-G38-t-i-p-$r-E134-$b-ir:t:n-m-V16-s-B1-!
+G38-t:f-N36:f-k:r-w-i-ir:t:n-G38-t-i-p-$r-E134-$b-B1-!
+!
++b   Parte testuale di sinistra   +s-!
+G38-t:f-k:y-i-i-F27:t-ir:t:n-G38-t-$r-E134-$b-B1-!
+G38:f-a:t-A-ir:n-G38-t-$r-E134-$b-B1-1_-!
+G38-t:f-anx-n:x:t-s-y-ir:t:n-G38-t-$r-E134-$b-B1-!
+1_-G38-t-s-E9-w-i-ir:t:n-anx-n:x*t-s-y-B1-!
+sn-t:f-G14-t:f-G38-t-$r-E134-$b-A17-ir:t:n-m-V16:O34-B1-!
+sn-n:f-F20:r*Z1-N23:Z2-O6-Hr:r-G38-t-ir:t:n-Htp-O10-A50-!
+N41*t:f-N36:t:f-ti-i-ti-i-ir:t:n-mn:n:t-G37-B1-!
+G38:f-t-W9-m-t-s-n:b-ti-b-b-i-ir:t:n-ti-i-ti-i-B1-!
+G38:f-x:xa-kA*kA:kA-x:D43-w-O49*t:f-ir:n-ti-i-ti-i-A50-!
+G38-t:f-r:z-U40-D5-ir:t:n-ti-i-ti-i-B1-!
+sn-n:f-H-T28-b-I1:Z2-E8:z-D3:ir-n:mr-r-ti-A50-!
+N41:t:f-mn:n:t-G37:ir-t:n-G38-t-mr:r-G5-B1-!
+sn-n:f-A48:O31-n:nTr*O7-O7-Hr:r-G5-A50-!
+sn-n:f-F20:pr:Z1-m-k:t:Z2-A20-!
+N41*t:f-W4-p-w-ir:t:n-G38-t-r:n:n-w-t:t-B1-!
+mn:n:a-t:D27-G38-t-r:n:n-w:t*t-ir:t:n-T28-r:t-kA:Z1-B1-!
+G38-t-s-Hr:f-w-ir:t:n-G38-t-r:n:n-w-t:t-B1-!
+G38-s-H-k-w-ir:n-G38-t-r:n:n-w-t:t-B1-!
+$r-A36A-$b-|?-t:y-U28-A-a:N33:Z2-ir:n-U28-A-i-i-t-!
+i-t:f-x:n-T34-m-s-A20-Z3-ir:n-m-m-t-!
+!
+!
+!
+!
+!
+!
+!
+!
