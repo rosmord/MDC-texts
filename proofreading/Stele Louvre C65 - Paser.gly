@@ -11,9 +11,14 @@
 ++JSesh_page_direction LEFT_TO_RIGHT +s
 ++JSesh_max_quadrantHeight 18.0 +s
 ++JSesh_page_orientation HORIZONTAL +s
-+b    Stele Louvre C65 - Paser  +s-!
-+l   Trascrizione-geroglifica by Nico Pollone    +s-!
-+l   https://collections.louvre.fr/en/ark:/53355/cl010025026    +s-!
++bStele Louvre C65 - Paser  +s-!
++lTrascrizione-geroglifica by Nico Pollone    +s-!
++lhttps://collections.louvre.fr/en/ark:/53355/cl010025026+s-!
++bBibliography+s-!
++lDrioton, E. 1933. "Essais sur la cryptographie privée de la fin de la XVIIIe dynastie"+s-+i, RDE+s-+l 1, 1-50+s-!
++lRoberson, Joshua Aaron. 2020. +s-+iA Lexicon of Ancient Egyptian Cryptography of the New Kingdom.+s-+l https://doi.org/10.1515/9783110683851. +s-!
++lMeeks, Dimitri. 2021. ‘L’écriture Énigmatique Égyptienne Est-Elle Énigmatique?’ Bibliotheca Orientalis, no. 5: 552–67.+s-!
+!
 +b    Lunetta superiore.   +s-!
 +l  Sopra una coppia seduta davanti a un tavolo imbandito.    +s-!
 imi-#b-$r-W17_-$b-|?-..-..-#e-!
@@ -47,9 +52,5 @@ i-i-B1-!
 |10)-.-U5:a-U6-i*i:f-U21:p:Y1-V17-sw-t:n-L2:t-s-H-b-W3:Y1-V8*b:n-t:F51-n:nb-tA:tA-A42-W17D_-n:t*Z4:o*p-st-t:pr-m-sw-t:n-A42-pr:Z1-anx-U28-s-Hr:r-z:S:t*U30-!
 |11)-.-M:pr*Z1-Y1:t*Z1-W3:T28-s-T32:M-D54-H-b-w-t:W3:Z2-a:r-N31:D54-M:nb-A42:f-M:N7*t-xpr-r:n:W24-n:ra*w-A17:r-b-w-g:r:Z4-Y1v-Hm-Z1*A42:f-anx-U28-s-!
 |12)-.-r:x:Y1-n-sw-w-i-ti-i-i-A21-Hr:Z1-b-i-t*W10:F18:f-s-T32:M-W3:n-O10-nb:t-O28-n:t:O49-sw-Y4-#b-pA-A21-A52-#e-G38&Z1-D60:n-F4:t*Z1:n-p:t-H-t*W:n:Z2-r:Z1-ms:n-G38&t-ra:Z1-!
-!
-!
-!
-!
 !
 !
